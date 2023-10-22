@@ -17,7 +17,7 @@ Place the PDF file you want to convert in the same directory as the script.
 Open a terminal or command prompt and navigate to the directory containing the script.
 Run the script by executing the following command:
 ```bash
-python main.py
+python PDF-to-Speech-Converter.py
 ```
 The script will extract the text content from the PDF, convert it to speech, and save it as an MP3 file in the same directory.
 
